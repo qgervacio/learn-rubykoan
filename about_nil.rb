@@ -36,7 +36,7 @@ class AboutNil < Neo::Koan
     #    obj == nil
     # Why?
 
-    # I prefer obj.nil? because everything in Ruby is an object :)
+    # I prefer obj.nil? because everything in Ruby is an object
   end
 
 end
